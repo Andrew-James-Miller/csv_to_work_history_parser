@@ -1,0 +1,12 @@
+Company,Job Title,Start Date,End Date,Address,Supervisor Name,Description of Responsibilities,Reason for Leaving
+"Tech Solutions Inc.",Software Developer,6/28/2025,9/9/2025,"123 Innovation Way, Austin, TX 78701",John Smith,"Developing web applications, managing code repositories, implementing security features, collaborating with team members on agile projects",Still Employed
+"Digital Dynamics LLC",Frontend Engineer,7/29/2024,6/27/2025,"456 Tech Blvd, Austin, TX 78702",Sarah Johnson,"Build responsive user interfaces, optimize application performance, implement design systems, collaborate with UX team",Career Growth
+Self-Employed,Freelance Developer,1/1/2024,7/1/2024,"Austin, TX",,Develop custom software solutions for clients,New Opportunity
+"Cloud Systems Corp",Cloud Engineer,8/1/2023,1/1/2024,"789 Enterprise Dr, Houston, TX 77001",Michael Brown,"Configure cloud infrastructure, maintain system security, implement CI/CD pipelines",Relocation
+"Cloud Systems Corp",Junior DevOps,5/1/2023,8/1/2023,"321 Corporate Pkwy, Houston, TX 77002",,"Monitor system performance, manage backups, automate deployment processes",Promotion
+Self-Employed,Technical Consultant,6/1/2022,5/1/2023,"Houston, TX",,Provide technical consulting services to startups,Career Change
+"Data Insights Co",Data Analyst,2/1/2022,6/1/2022,"741 Analytics Ave, Dallas, TX 75001",Emily Wilson,"Analyze data trends, create visualization dashboards, generate reports",Better Opportunity
+"Global Tech Ltd",Help Desk Support,7/1/2015,6/1/2017,"Dallas, TX",,"Resolve technical issues, maintain documentation, provide user training",Career Advancement
+"Innovative Solutions Inc",IT Support Specialist,4/1/2013,7/1/2015,"Fort Worth, TX",,"Hardware troubleshooting, software installation, network maintenance, user support",Company Restructuring
+"TechStart Systems",Technical Assistant,6/1/2012,6/1/2013,"Arlington, TX",,"Basic system maintenance, user account management, equipment setup",Educational Pursuit
+"Future Technologies",IT Intern,8/1/2010,10/1/2010,"Irving, TX",,"Assist with basic IT tasks, learn company systems, document processes",Internship Completion
