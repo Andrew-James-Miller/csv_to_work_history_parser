@@ -183,9 +183,9 @@ fn extract_location(address: &str) -> String {
 /// * `date` - A NaiveDate to format
 /// 
 /// # Returns
-/// * `String` - The date formatted as MM/YYYY
+/// * `String` - The date formatted as MM/01/YYYY
 fn format_date(date: NaiveDate) -> String {
-    date.format("%m/%Y").to_string()
+    date.format("%m/01/%Y").to_string()
 }
 
 /// Process the CSV file and write formatted output.
